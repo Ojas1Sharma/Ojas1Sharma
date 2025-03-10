@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on ML and NLP Projects
+🔭 I’m currently working as a Software Engineer
+🧑‍💻I work in Java and Springboot daily
+🤸🏼‍♀️I am interested in ML and NLP Projects
 
 
 ## 🌐 Socials:
