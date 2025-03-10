@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as a Software Engineer
-🧑‍💻I work in Java and Springboot daily
+🧑‍💻I work revolves around Java, Springboot and microservices architectures
 🤸🏼‍♀️I am interested in ML and NLP Projects
 
 
