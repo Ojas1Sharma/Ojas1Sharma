@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Engineer
+🔭 I’m currently working as a Backend And AI Engineer at Turgon.ai
 🧑‍💻I work revolves around Java, Springboot and microservices architectures
 🤸🏼‍♀️I am interested in ML and NLP Projects
 
